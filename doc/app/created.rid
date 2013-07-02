@@ -1,0 +1,9 @@
+Tue, 25 Jun 2013 16:51:33 -0400
+doc/README_FOR_APP	Thu, 06 Jun 2013 18:18:35 -0400
+app/controllers/application_controller.rb	Thu, 06 Jun 2013 18:18:32 -0400
+app/controllers/static_pages_controller.rb	Wed, 12 Jun 2013 08:56:06 -0400
+app/controllers/users_controller.rb	Sun, 16 Jun 2013 23:17:51 -0400
+app/helpers/application_helper.rb	Sun, 09 Jun 2013 02:11:40 -0400
+app/helpers/static_pages_helper.rb	Sun, 09 Jun 2013 00:49:37 -0400
+app/helpers/users_helper.rb	Sun, 16 Jun 2013 23:17:51 -0400
+app/models/user.rb	Tue, 25 Jun 2013 16:23:06 -0400
