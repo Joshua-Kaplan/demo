@@ -12,7 +12,7 @@ group :development, :test do
   gem 'childprocess', '0.3.6'
   gem 'spork', '0.9.2'
   gem 'listen'
-  gem 'bootstrap-sass', '~> 2.3.1.2'
+  gem 'bootstrap-sass', '~> 2.3.1.3'
   require 'rbconfig'
   gem 'wdm', '>= 0.1.0' if RbConfig::CONFIG['target_os'] =~ /mswin|mingw/i
 end
